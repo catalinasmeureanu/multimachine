@@ -8,7 +8,7 @@ This repo creates multi machine web01 web02 based on a single Vagrant file
  
  `git clone https://github.com/catalinasmeureanu/multimachine`
  
- * go to the file _multimachine_
+ * go to the folder _multimachine_
  
  `cd multimachine`
  
