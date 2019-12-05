@@ -6,16 +6,16 @@ This repo creates multi machines web01 web02 based on a single Vagrant file
 
  * clone this repo
  
- `git clone https://github.com/catalinasmeureanu/multimachine`
+ `$ git clone https://github.com/catalinasmeureanu/multimachine`
  
  * go to the folder _multimachine_
  
- `cd multimachine`
+ `$ cd multimachine`
  
  * run the following command to create and configure the two machines (web01, web02) according to the Vagrantfile
  
- `vagrant up`
+ `$ vagrant up`
  
  * stop the running machines and destroy all resources that were created during the machine creation process
  
- `vagrant destroy`
+ `$ vagrant destroy`
